@@ -4,8 +4,8 @@
 }
 
 body {
-    background-color: blanchedalmond;
-    color:darkblue;
+background-color: blanchedalmond;
+color:darkblue;
     margin: 20px;
     padding: 20px;
     text-align: justify;
@@ -29,9 +29,4 @@ body {
     font-size: medium;
     font-weight: bold;
    
-}
-
-.img{
-    justify-content: center;
-    align-items: center;
 }
